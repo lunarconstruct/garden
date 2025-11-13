@@ -1,0 +1,3 @@
+i run it as an OS !! i dont have a crazy dashboard or anything yet but we'll get there i promise you x3
+![[homelab/_pics/{76C0FF59-70C0-435D-91DF-4EBFB1EB0835}.png|500]]
+homeass............
