@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/homelab/the hardware/big gay nas v1/index.md","title":"big gay nas v1","created":"2025-11-12T23:24:24.207-05:00","modified":"2025-11-13T00:27:43.011-05:00","published":"2025-11-13T00:27:43.011-05:00","cssclasses":""}
+{"publish":true,"permalink":"/homelab/the hardware/big gay nas v1/index.md","title":"big gay nas v1","created":"2025-11-12T23:24:24.207-05:00","modified":"2025-11-13T00:32:01.194-05:00","published":"2025-11-13T00:32:01.194-05:00","cssclasses":""}
 ---
 
 the hardware went through so many different iterations before landing on what we've got now. started off with a raspberry pi zero 2 w - a tiny little thing with like. 0 ram and no processing power at all. it was only 15$ tho lmao
@@ -34,6 +34,6 @@ eventually, i gave in to the lag and decided to make the jump to a full-on mothe
 
 i found out my mom was holding onto my grandpa's old computer and hard drives, so i took them to repurpose. im glad i got something from him! and something as cool as a motherboard to make my garden on x3
 
-as of 10/5/2025, the [[homelab/the hardware/project grandpi/index\|grandpi]] is our current machine!!
+#### as of 10/5/2025, the [[homelab/the hardware/project grandpi/index\|grandpi]] is our current, main machine!!
 
 as for the v1, i'm not just gonna throw it away ofccc i'm currently hosting homeassistant on it instead, letting it do a job a little better suited for how much ram its got fjdskfjsdk
