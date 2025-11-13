@@ -1,0 +1,18 @@
+services:
+    nginx:
+        stdin_open: true
+        tty: true
+        ports:
+            - 83:80
+        networks:
+            - proxy
+        container_name: garden
+        volumes:
+            - ~/garden/public:/usr/share/nginx/html
+            - ~/garden/nginx.conf:/etc/nginx/nginx.conf
+        image: nginx
+        restart: unless-stopped
+networks:
+    proxy:
+        external: true
+        name: proxy
