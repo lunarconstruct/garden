@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/homelab/project grandpi/index.md","title":"project grandpi","created":"2025-11-07T00:38:05.447-05:00","modified":"2025-11-13T00:15:20.724-05:00","published":"2025-11-13T00:15:20.724-05:00","cssclasses":""}
+{"publish":true,"permalink":"/homelab/the hardware/project grandpi/index.md","title":"project grandpi","created":"2025-11-07T00:38:05.447-05:00","modified":"2025-11-13T00:15:20.724-05:00","published":"2025-11-13T00:15:20.724-05:00","cssclasses":""}
 ---
 
 u see what i did there? :) grandpa + pi lmaooo (i know its stupid just let me live jfksdfjs)
