@@ -1,4 +1,14 @@
 ---
-{"publish":true,"permalink":"/physical music collection/Worlds.md","created":"2025-11-15T21:12:43.052-05:00","modified":"2025-11-15T21:34:24.424-05:00","published":"2025-11-15T21:34:24.424-05:00","cssclasses":"","official image":"![|75](https://i.discogs.com/2yDVuWrfC3yPMuFce7SHJvm-nUI2IcX6Gd0tLI3NtfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODc1/OTAtMTY2NjczMTUy/MS03MjAwLmpwZWc.jpeg)","personal images":["[[image_2024-08-24_170709527.png]]","[[20240824_164641.mp4]]"],"ext price":"$0.00","notes":"found at newbury comics in the SI mall!","date obtained":"2024-08-24","purchase link":"https://www.amazon.com/Worlds-Porter-Robinson/dp/B00L5VZGY8/ref=sr_1_1?crid=2M6OBG56E1PJZ&dib=eyJ2IjoiMSJ9.ejZjCXAUME-kIe7S-3tfR3WT96axq2-bNIlWF09CkszegPVTG84HeqtNSVd_Zos93kQIs7XRB01J9oJqBCPenFc6p5Gna61yzlDJ67jIu82W13nj7bePCgh4kOs6jDPRrXNIANHSYG1v4ociZIZDT9JQTdwfBEcuT5iMHemnoVpOmxPpLnb9FBccYlJJIpDe395Pcabwj3ZycwUKW0ahzipTngQPSuTow2cOT9soEPc.gzuqHxiVVUdlHMpsgBDymcCzBB3qIpkL5alakxXbM9M&dib_tag=se&keywords=porter+robinson+worlds&qid=1724533719&sprefix=porter+robinson+world%2Caps%2C95&sr=8-1","DB link":"https://www.discogs.com/release/5987590-Porter-Robinson-Worlds","artist(s)":["Porter Robinson"],"type":"#vinyl"}
+official image: "![|75](https://i.discogs.com/2yDVuWrfC3yPMuFce7SHJvm-nUI2IcX6Gd0tLI3NtfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODc1/OTAtMTY2NjczMTUy/MS03MjAwLmpwZWc.jpeg)"
+personal images:
+  - "[[image_2024-08-24_170709527.png]]"
+  - "[[20240824_164641.mp4]]"
+ext price: $0.00
+notes: found at newbury comics in the SI mall!
+date obtained: 2024-08-24
+purchase link: https://www.amazon.com/Worlds-Porter-Robinson/dp/B00L5VZGY8/ref=sr_1_1?crid=2M6OBG56E1PJZ&dib=eyJ2IjoiMSJ9.ejZjCXAUME-kIe7S-3tfR3WT96axq2-bNIlWF09CkszegPVTG84HeqtNSVd_Zos93kQIs7XRB01J9oJqBCPenFc6p5Gna61yzlDJ67jIu82W13nj7bePCgh4kOs6jDPRrXNIANHSYG1v4ociZIZDT9JQTdwfBEcuT5iMHemnoVpOmxPpLnb9FBccYlJJIpDe395Pcabwj3ZycwUKW0ahzipTngQPSuTow2cOT9soEPc.gzuqHxiVVUdlHMpsgBDymcCzBB3qIpkL5alakxXbM9M&dib_tag=se&keywords=porter+robinson+worlds&qid=1724533719&sprefix=porter+robinson+world%2Caps%2C95&sr=8-1
+DB link: https://www.discogs.com/release/5987590-Porter-Robinson-Worlds
+artist(s):
+  - Porter Robinson
+type: "#vinyl"
 ---
-
