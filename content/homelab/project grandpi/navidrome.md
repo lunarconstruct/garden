@@ -6,7 +6,7 @@ After a simple [installation](https://www.navidrome.org/docs/installation/), Nav
 
 ---
 
-navidrome was the first thing to be set up! it was also the main reason i was doing all this in the first place? i had been wanting to stop using spotify for a while, i was always hating paying a monthly fee to listen to music and i had recently learned about spotify's monetary contributions to AI weapons, the flooding of the platform with AI slop artists, and running ads for ICE. fuuuck that im out
+navidrome was the first thing to be set up! it was also the main reason i was doing all this in the first place? i had been wanting to stop using spotify for a while, i was always hating paying a monthly fee to listen to music and i had recently learned about [spotify's CEO owning an AI weapons company](https://www.latimes.com/entertainment-arts/music/story/2025-07-31/spotifys-ceo-owns-an-ai-weapons-company-some-musicians-say-its-time-to-leave), the flooding of the platform with AI slop artists, and running ads for ICE. fuuuck that im out
 
 plus, i had already been getting into physical media with my [[physical music collection/index\|vinyls and cds]], so i was all in for ditching shitty streaming services that prevent you from actually owning the media you pay for.
 
