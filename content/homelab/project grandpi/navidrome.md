@@ -8,7 +8,7 @@ After a simple [installation](https://www.navidrome.org/docs/installation/), Nav
 
 navidrome was the first thing to be set up! it was also the main reason i was doing all this in the first place? i had been wanting to stop using spotify for a while, i was always hating paying a monthly fee to listen to music and i had recently learned about spotify's monetary contributions to AI weapons, the flooding of the platform with AI slop artists, and running ads for ICE. fuuuck that im out
 
-plus, i had already been getting into physical media with my [[physical music collection/index|vinyls and cds]], so i was all in for ditching shitty streaming services that prevent you from actually owning the media you pay for.
+plus, i had already been getting into physical media with my [[physical music collection/index\|vinyls and cds]], so i was all in for ditching shitty streaming services that prevent you from actually owning the media you pay for.
 
 so, while it took a lot of trial and error, we finally got navidrome up and running. we used the [docker image](https://www.navidrome.org/docs/installation/docker/) in docker compose. i remember having a lot of trouble getting this started. i was super new to linux, and building containers and using the terminal and stuff like this. i honestly still don't even know the term for doing all this is lmfaO previously if you didnt give me an .exe file to run, i would have no idea what to do
 
